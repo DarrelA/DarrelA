@@ -1,18 +1,4 @@
-#### Active Project(s):
-
-- [Task Management System](https://github.com/DarrelA/task-management-system): Emulate the Kanban approach that support the Planning, Tracking, and Approving for the task activities related to a specific project.
-
-<hr>
-&nbsp;
-
-<div align = "center">
-  <a href="https://github.com/DarrelASandbox"><b>DarrelASandbox:</b> Repos of codes written while learning from tutorials</a>
-  <br><i>Actively learning and getting better!</i>
-</div>
-
-&nbsp;
-
-<hr>
+[**DarrelASandbox:**](https://github.com/DarrelASandbox) With over 50 repos of codes!
 
 &nbsp;
 
@@ -28,7 +14,8 @@
 <details>
   <summary>Inactive Projects:</summary>
 
-- [eaove](https://github.com/DarrelA/eaove): To do list with extra steps? 
+- [task-management-system](https://github.com/DarrelA/task-management-system): Emulate the Kanban approach that support the Planning, Tracking, and Approving for the task activities related to a specific project.
 - [mern-starter](https://github.com/DarrelA/mern-starter): MongoDB, Express, React & NodeJS stack with refresh token & Google OAuth
+- [eaove](https://github.com/DarrelA/eaove): To do list with extra steps? 
 
 </details>
