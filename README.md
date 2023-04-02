@@ -1,8 +1,14 @@
 <div align="center">
-  <a href="https://github.com/DarrelASandbox"><b>DarrelASandbox: </b>50++ repositories!</a>
+  <a href="https://github.com/DarrelASandbox"
+    ><b>DarrelASandbox: </b>Over 50 repositories!</a
+  >
 </div>
+<br />
 
-&nbsp;
+<div align="center">
+  <em>Spinning up some microservices from scratch...</em>
+</div>
+<br />
 
 <div align="center">
   <img
@@ -18,6 +24,10 @@
     alt="JavaScript"
   />
   <img
+    src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="TypeScript"
+  />
+  <img
     src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
     alt="Go"
   />
@@ -29,16 +39,16 @@
 
 <div align="center">
   <img
-    src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-    alt="MongoDB"
-  />
-  <img
     src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
   />
   <img
     src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
     alt="Postgres"
+  />
+  <img
+    src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
   />
   <img
     src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"
@@ -48,16 +58,20 @@
 
 <div align="center">
   <img
+    src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+    alt="NextJS"
+  />
+  <img
     src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
     alt="React"
   />
   <img
-    src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-    alt="GraphQL"
-  />
-  <img
     src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
     alt="NodeJS"
+  />
+  <img
+    src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+    alt="GraphQL"
   />
   <img
     src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
@@ -108,28 +122,3 @@
 </div>
 
 &nbsp;
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-darrela-28-mar-2022.vercel.app/api?username=darrela&show_icons=true&theme=dracula"
-    width="400"
-  />
-  <img
-    src="https://github-readme-stats-darrela-28-mar-2022.vercel.app/api/top-langs/?username=darrela&layout=compact&theme=dracula"
-    width="400"
-  />
-</div>
-
-&nbsp;
-
-<hr>
-
-<details>
-  <summary>Inactive Projects:</summary>
-
-- [task-management-system-golang-svelte](https://github.com/DarrelA/task-management-system-golang-svelte): Group project of TSM in a different tech stack!
-- [task-management-system](https://github.com/DarrelA/task-management-system): Emulate the Kanban approach that support the Planning, Tracking, and Approving for the task activities related to a specific project.
-- [mern-starter](https://github.com/DarrelA/mern-starter): MongoDB, Express, React & NodeJS stack with refresh token & Google OAuth.
-- [eaove](https://github.com/DarrelA/eaove): To do list with extra steps? 
-
-</details>
