@@ -6,7 +6,7 @@
 <br />
 
 <div align="center">
-  <em>Spinning up some microservices from scratch...</em>
+  <em>In debugging ignorance and encoding wisdom, we are scripting a narrative of ceaseless discovery.</em>
 </div>
 <br />
 
@@ -47,6 +47,10 @@
     alt="Postgres"
   />
   <img
+    src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
+    alt="Redis"
+  />
+  <img
     src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
     alt="MongoDB"
   />
@@ -62,6 +66,10 @@
     alt="NextJS"
   />
   <img
+    src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
+    alt="Vite"
+  />
+  <img
     src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
     alt="React"
   />
@@ -73,10 +81,21 @@
     src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
     alt="GraphQL"
   />
+</div>
+
+<div align="center">
   <img
-    src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
-    alt="NPM"
-  />
+      src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
+      alt="JWT"
+    />
+  <img
+      src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+      alt="NPM"
+    />
+  <img
+      src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"
+      alt="Anaconda"
+    />
 </div>
 
 <div align="center">
@@ -108,16 +127,50 @@
     alt="Postman"
   />
   <img
-    src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-    alt="Visual Studio Code"
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+    alt="Windows"
+  />
+  <img
+    src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white"
+    alt="Rocky"
   />
   <img
     src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"
     alt="macOS"
   />
+</div>
+
+<div align="center">
   <img
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-    alt="Windows"
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+    alt="Visual Studio Code"
+  />
+    <img
+    src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"
+    alt="Firefox"
+  />
+  <img
+    src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
+    alt="chatGPT"
+  />
+  <img
+    src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"
+    alt="Spotify"
+  />
+</div>
+
+<div align="center">
+    <img
+    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
+    alt="Microsoft Office"
+  />
+    <img
+    src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"
+    alt="Udemy"
+  />
+    <img
+    src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord"
   />
 </div>
 
