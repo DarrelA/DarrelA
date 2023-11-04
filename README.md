@@ -6,7 +6,7 @@
 <br />
 
 <div align="center">
-  <a href="https://darrela.notion.site/04c45fbb92cf4de2ad8109016df2c58e?v=d1cae15bda9944e1be5c5b8e848d35a2&pvs=4"
+  <a href="https://darrela.notion.site/04c45fbb92cf4de2ad8109016df2c58e?v=c9ec7b2b76724d53bf68559d9d176ab3&pvs=4"
     >📚 Reading list on Notion</a
   >
 </div>
@@ -18,6 +18,14 @@
 <br />
 
 <div align="center">
+  <img
+    src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
+    alt="Shell Script"
+  />
+  <img
+    src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"
+    alt="Powershell"
+  />
   <img
     src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
     alt="HTML5"
@@ -76,6 +84,29 @@
 
 <div align="center">
   <img
+    src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
+    alt="ExpressJS"
+  />
+  <img
+    src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
+    alt="Sequelize"
+  />
+  <img
+    src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+    alt="Pandas"
+  />
+  <img
+    src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
+    alt="Spring"
+  />
+  <img
+    src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"
+    alt="Hibernate"
+  />
+</div>
+
+<div align="center">
+  <img
     src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
     alt="NextJS"
   />
@@ -99,20 +130,32 @@
 
 <div align="center">
   <img
+      src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"
+      alt="Selenium"
+    />
+  <img
       src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
       alt="JWT"
     />
   <img
-      src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+      src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
       alt="NPM"
     />
   <img
       src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"
       alt="Anaconda"
     />
+  <img
+      src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"
+      alt="Apache Maven"
+    />
 </div>
 
 <div align="center">
+  <img
+    src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
   <img
     src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
@@ -129,9 +172,24 @@
     src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
     alt="Kubernetes"
   />
+</div>
+
+<div align="center">
   <img
     src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
     alt="AWS"
+  />
+  <img
+    src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
+    alt="ESLint"
+  />
+  <img
+    src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
+    alt="Notion"
+  />
+  <img
+    src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white"
+    alt="Bitwarden"
   />
 </div>
 
@@ -174,15 +232,15 @@
 </div>
 
 <div align="center">
-    <img
+  <img
     src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
     alt="Microsoft Office"
   />
-    <img
+  <img
     src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"
     alt="Udemy"
   />
-    <img
+  <img
     src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
     alt="Discord"
   />
