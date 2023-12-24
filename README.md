@@ -6,14 +6,12 @@
 <br />
 
 <div align="center">
-  <a href="https://darrela.notion.site/04c45fbb92cf4de2ad8109016df2c58e?v=c9ec7b2b76724d53bf68559d9d176ab3&pvs=4"
-    >📚 Reading list on Notion</a
-  >
+  📚 Migrated my reading list from Notion to Obsidian! </br>
 </div>
 <br />
 
 <div align="center">
-  <em>In debugging ignorance and encoding wisdom, we are scripting a narrative of ceaseless discovery.</em>
+  <em>In the midst of consolidating all that I have learned about Software Engineering!</em>
 </div>
 <br />
 
@@ -184,10 +182,6 @@
     alt="ESLint"
   />
   <img
-    src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
-    alt="Notion"
-  />
-  <img
     src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white"
     alt="Bitwarden"
   />
@@ -226,8 +220,8 @@
     alt="chatGPT"
   />
   <img
-    src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"
-    alt="Spotify"
+    src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"
+    alt="Obsidian"
   />
 </div>
 
@@ -237,8 +231,8 @@
     alt="Microsoft Office"
   />
   <img
-    src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"
-    alt="Udemy"
+    src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"
+    alt="Spotify"
   />
   <img
     src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
