@@ -1,6 +1,4 @@
-<div align="center">
-  <em>Go-to tech stack</em>
-</div>
+<div align="center"><em>Go-to tech stack</em></div>
 
 <br />
 
@@ -76,16 +74,28 @@
       alt="Postman"
     />
   </div>
+</div>
 
-  <br />
+<br />
 
-  <div align="center">***</div>
+<div align="center">***</div>
 
-  <br />
+<br />
 
-  <div align="center">
-    <a href="https://github.com/DarrelASandbox"
-      ><b>DarrelASandbox: </b>Over 50 repositories!</a
-    >
-  </div>
+<div align="center">
+  <strong>Raindrop Bookmarks</strong>:
+  <a href="https://raindrop.io/DarrelA/languages-48410892">languages</a> |
+  <a href="https://raindrop.io/DarrelA/swe-48386257">SWE</a>
+</div>
+
+<br />
+
+<div align="center">***</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/DarrelASandbox"
+    ><b>DarrelASandbox: </b>Over 50 repositories!</a
+  >
 </div>
