@@ -84,8 +84,9 @@
 
 <div align="center">
   <strong>Raindrop Bookmarks</strong>:
-  <a href="https://raindrop.io/DarrelA/languages-48410892">languages</a> |
-  <a href="https://raindrop.io/DarrelA/swe-48386257">SWE</a>
+  <a href="https://raindrop.io/DarrelA/languages-48410892">Languages</a> |
+  <a href="https://raindrop.io/DarrelA/swe-48386257">SWE</a> |
+  <a href="https://raindrop.io/DarrelA/repos-48517024">GitHub List</a>
 </div>
 
 <br />
